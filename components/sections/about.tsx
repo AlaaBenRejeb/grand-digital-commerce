@@ -17,8 +17,8 @@ export function About() {
             <p className="max-w-2xl text-base leading-7 text-slate-600">
               I started Grand Digital Commerce to build scalable digital businesses and help
               others do the same. Spine Empire is proof that a focused system beats random
-              effort — we built a done-for-you marketing operation for chiropractic clinics
-              across the United States, operating from Dubai. The coaching program exists
+              effort — we built a licensing and coaching system that equips chiropractic clinics
+              across the United States with the assets, SOPs, and support to run a predictable patient acquisition model, operating from Dubai. The coaching program exists
               because the biggest barrier to starting an online business is not knowledge.
               It is knowing where to start.
             </p>

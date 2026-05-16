@@ -20,8 +20,8 @@ export default function PrivacyPage() {
             <h2 className="mb-3 text-lg font-black text-spine-navy">1. Who We Are</h2>
             <p>
               Grand Digital Commerce LLC is a limited liability company registered in Dubai,
-              United Arab Emirates. We own and operate Spine Empire, a done-for-you marketing
-              service for chiropractic clinic owners in the United States, and we provide
+              United Arab Emirates. We own and operate Spine Empire, a licensing and coaching
+              platform for chiropractic clinic owners in the United States, and we provide
               online business coaching. Our contact email is{" "}
               <a
                 href="mailto:alaabenrejeb.b@icloud.com"
@@ -64,7 +64,18 @@ export default function PrivacyPage() {
           </section>
 
           <section>
-            <h2 className="mb-3 text-lg font-black text-spine-navy">5. Data Storage and Security</h2>
+            <h2 className="mb-3 text-lg font-black text-spine-navy">5. SMS Communications</h2>
+            <p>
+              If you book an audit call through Spine Empire, we may send you SMS messages
+              solely to confirm your booking and send timely reminders before your scheduled
+              call. SMS is not used for marketing or promotional purposes. Standard message and
+              data rates may apply depending on your carrier. You may reply STOP at any time to
+              opt out of SMS reminders.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-lg font-black text-spine-navy">6. Data Storage and Security</h2>
             <p>
               Any personal data collected through our services is stored on secure,
               industry-standard infrastructure. We take reasonable technical and organisational
@@ -73,7 +84,7 @@ export default function PrivacyPage() {
           </section>
 
           <section>
-            <h2 className="mb-3 text-lg font-black text-spine-navy">6. Your Rights</h2>
+            <h2 className="mb-3 text-lg font-black text-spine-navy">7. Your Rights</h2>
             <p>
               You may request access to, correction of, or deletion of personal data we hold
               about you at any time by contacting us at{" "}
@@ -88,7 +99,7 @@ export default function PrivacyPage() {
           </section>
 
           <section>
-            <h2 className="mb-3 text-lg font-black text-spine-navy">7. Governing Law</h2>
+            <h2 className="mb-3 text-lg font-black text-spine-navy">8. Governing Law</h2>
             <p>
               This Privacy Policy is governed by the laws of the United Arab Emirates. For
               services provided to clients in the United States, we additionally comply with
@@ -98,7 +109,7 @@ export default function PrivacyPage() {
           </section>
 
           <section>
-            <h2 className="mb-3 text-lg font-black text-spine-navy">8. Changes to This Policy</h2>
+            <h2 className="mb-3 text-lg font-black text-spine-navy">9. Changes to This Policy</h2>
             <p>
               We may update this policy from time to time. The "last updated" date at the top
               of this page reflects the most recent revision. Continued use of our services
@@ -107,7 +118,7 @@ export default function PrivacyPage() {
           </section>
 
           <section>
-            <h2 className="mb-3 text-lg font-black text-spine-navy">9. Contact</h2>
+            <h2 className="mb-3 text-lg font-black text-spine-navy">10. Contact</h2>
             <p>
               Grand Digital Commerce LLC, Dubai, United Arab Emirates.{" "}
               <a

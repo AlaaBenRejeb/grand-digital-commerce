@@ -32,9 +32,9 @@ export default function TermsPage() {
             </p>
             <ul className="ml-5 list-disc space-y-2">
               <li>
-                <strong className="text-spine-navy">Spine Empire</strong> — done-for-you
-                digital marketing services for chiropractic clinic owners in the United
-                States, operated from Dubai, UAE.
+                <strong className="text-spine-navy">Spine Empire</strong> — a licensing and
+                coaching platform for chiropractic clinic owners in the United States,
+                operated from Dubai, UAE.
               </li>
               <li>
                 <strong className="text-spine-navy">Online Business Coaching</strong> —
