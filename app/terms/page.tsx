@@ -13,14 +13,14 @@ export default function TermsPage() {
       <Nav />
       <main className="mx-auto max-w-3xl px-6 pb-20 pt-32">
         <h1 className="mb-2 text-3xl font-black text-spine-navy">Terms of Service</h1>
-        <p className="mb-10 text-sm text-slate-500">Last updated: May 2026</p>
+        <p className="mb-10 text-sm text-slate-500">Last updated: June 2026</p>
 
         <div className="space-y-8 text-base leading-7 text-slate-600">
           <section>
             <h2 className="mb-3 text-lg font-black text-spine-navy">1. Agreement</h2>
             <p>
               By accessing granddigitalcommerce.com or engaging with any services offered by
-              Grand Digital Commerce LLC ("we", "us", "our"), you agree to these Terms of
+              Grand Digital Commerce LLC (&quot;we&quot;, &quot;us&quot;, &quot;our&quot;), you agree to these Terms of
               Service. If you do not agree, do not use this website or our services.
             </p>
           </section>
@@ -50,7 +50,7 @@ export default function TermsPage() {
           <section>
             <h2 className="mb-3 text-lg font-black text-spine-navy">3. US Regulatory Compliance</h2>
             <p>
-              Spine Empire's marketing services to US-based clients are conducted in
+              Spine Empire&apos;s marketing services to US-based clients are conducted in
               compliance with applicable United States federal regulations, including the
               CAN-SPAM Act and relevant Federal Trade Commission (FTC) guidelines. All
               commercial email communications include a clear unsubscribe mechanism and
@@ -101,7 +101,7 @@ export default function TermsPage() {
           <section>
             <h2 className="mb-3 text-lg font-black text-spine-navy">8. Changes to These Terms</h2>
             <p>
-              We reserve the right to update these terms at any time. The "last updated"
+              We reserve the right to update these terms at any time. The &quot;last updated&quot;
               date reflects the most recent revision. Continued use of our services after a
               change constitutes acceptance.
             </p>
@@ -112,10 +112,10 @@ export default function TermsPage() {
             <p>
               Grand Digital Commerce LLC, Dubai, United Arab Emirates.{" "}
               <a
-                href="mailto:alaabenrejeb.b@icloud.com"
+                href="mailto:info@spineempire.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                alaabenrejeb.b@icloud.com
+                info@spineempire.com
               </a>
             </p>
           </section>

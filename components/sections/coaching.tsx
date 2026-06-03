@@ -33,7 +33,7 @@ export function Coaching() {
           {pillars.map((p) => (
             <div
               key={p.title}
-              className="rounded-xl border-t-2 border-spine-gold border border-spine-line bg-spine-surface p-5"
+              className="rounded-xl border border-spine-line border-t-2 border-t-spine-gold bg-spine-surface p-5"
             >
               <h3 className="mb-2 font-bold text-spine-navy">{p.title}</h3>
               <p className="text-sm leading-5 text-slate-500">{p.body}</p>

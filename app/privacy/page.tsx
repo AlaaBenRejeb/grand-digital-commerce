@@ -13,7 +13,7 @@ export default function PrivacyPage() {
       <Nav />
       <main className="mx-auto max-w-3xl px-6 pb-20 pt-32">
         <h1 className="mb-2 text-3xl font-black text-spine-navy">Privacy Policy</h1>
-        <p className="mb-10 text-sm text-slate-500">Last updated: May 2026</p>
+        <p className="mb-10 text-sm text-slate-500">Last updated: June 2026</p>
 
         <div className="space-y-8 text-base leading-7 text-slate-600">
           <section>
@@ -24,10 +24,10 @@ export default function PrivacyPage() {
               platform for chiropractic clinic owners in the United States, and we provide
               online business coaching. Our contact email is{" "}
               <a
-                href="mailto:alaabenrejeb.b@icloud.com"
+                href="mailto:info@spineempire.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                alaabenrejeb.b@icloud.com
+                info@spineempire.com
               </a>
               .
             </p>
@@ -56,7 +56,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="mb-3 text-lg font-black text-spine-navy">4. Email Communications</h2>
             <p>
-              If you engage with Spine Empire's services, you may receive transactional and
+              If you engage with Spine Empire&apos;s services, you may receive transactional and
               marketing emails. All marketing emails include an unsubscribe link in compliance
               with the CAN-SPAM Act (United States). You may unsubscribe at any time. We
               comply with applicable United States email regulations for our US-based clients.
@@ -89,10 +89,10 @@ export default function PrivacyPage() {
               You may request access to, correction of, or deletion of personal data we hold
               about you at any time by contacting us at{" "}
               <a
-                href="mailto:alaabenrejeb.b@icloud.com"
+                href="mailto:info@spineempire.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                alaabenrejeb.b@icloud.com
+                info@spineempire.com
               </a>
               . We will respond within 30 days.
             </p>
@@ -111,7 +111,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="mb-3 text-lg font-black text-spine-navy">9. Changes to This Policy</h2>
             <p>
-              We may update this policy from time to time. The "last updated" date at the top
+              We may update this policy from time to time. The &quot;last updated&quot; date at the top
               of this page reflects the most recent revision. Continued use of our services
               after a change constitutes acceptance of the updated policy.
             </p>
@@ -122,10 +122,10 @@ export default function PrivacyPage() {
             <p>
               Grand Digital Commerce LLC, Dubai, United Arab Emirates.{" "}
               <a
-                href="mailto:alaabenrejeb.b@icloud.com"
+                href="mailto:info@spineempire.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                alaabenrejeb.b@icloud.com
+                info@spineempire.com
               </a>
             </p>
           </section>

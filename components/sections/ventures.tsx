@@ -18,7 +18,7 @@ export function Ventures() {
               <div>
                 <h3 className="font-black text-spine-navy">Spine Empire</h3>
                 <p className="text-xs font-bold uppercase tracking-widest text-spine-gold">
-                  Done-For-You Marketing · Chiropractic
+                  Licensing &amp; Coaching · Chiropractic
                 </p>
               </div>
             </div>
