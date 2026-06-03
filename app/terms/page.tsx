@@ -112,10 +112,10 @@ export default function TermsPage() {
             <p>
               Grand Digital Commerce LLC, Dubai, United Arab Emirates.{" "}
               <a
-                href="mailto:info@spineempire.com"
+                href="mailto:alaabenrejeb.b@icloud.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                info@spineempire.com
+                alaabenrejeb.b@icloud.com
               </a>
             </p>
           </section>

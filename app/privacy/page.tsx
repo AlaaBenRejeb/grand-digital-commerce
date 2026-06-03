@@ -24,10 +24,10 @@ export default function PrivacyPage() {
               platform for chiropractic clinic owners in the United States, and we provide
               online business coaching. Our contact email is{" "}
               <a
-                href="mailto:info@spineempire.com"
+                href="mailto:alaabenrejeb.b@icloud.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                info@spineempire.com
+                alaabenrejeb.b@icloud.com
               </a>
               .
             </p>
@@ -89,10 +89,10 @@ export default function PrivacyPage() {
               You may request access to, correction of, or deletion of personal data we hold
               about you at any time by contacting us at{" "}
               <a
-                href="mailto:info@spineempire.com"
+                href="mailto:alaabenrejeb.b@icloud.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                info@spineempire.com
+                alaabenrejeb.b@icloud.com
               </a>
               . We will respond within 30 days.
             </p>
@@ -122,10 +122,10 @@ export default function PrivacyPage() {
             <p>
               Grand Digital Commerce LLC, Dubai, United Arab Emirates.{" "}
               <a
-                href="mailto:info@spineempire.com"
+                href="mailto:alaabenrejeb.b@icloud.com"
                 className="font-medium text-spine-navy hover:text-spine-gold transition-colors"
               >
-                info@spineempire.com
+                alaabenrejeb.b@icloud.com
               </a>
             </p>
           </section>
